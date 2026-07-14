@@ -1,0 +1,10 @@
+{
+  "name": "autoreg",
+  "private": true,
+  "version": "2.0.0",
+  "description": "AutoReg — offline-first autoregulated powerlifting PWA. Vanilla JS, no build step, no runtime dependencies.",
+  "scripts": {
+    "test": "node --test",
+    "smoke": "node tests/app.smoke.js"
+  }
+}
